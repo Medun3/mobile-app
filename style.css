@@ -82,7 +82,7 @@ body {
 }
 .nav {
     display: flex;
-    width: 23%;
+    width: 100%;
     justify-content: space-around; 
     padding: 15px;  
     padding-bottom: 0px;
